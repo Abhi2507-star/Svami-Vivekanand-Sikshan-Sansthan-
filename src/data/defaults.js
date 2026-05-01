@@ -87,7 +87,7 @@ export const defaultManager = {
   designation: 'School Manager',
   designationHi: 'विद्यालय प्रबंधक',
   photo: '/images/manager.png',
-  message: 'Welcome to Swami Vivekanad Sikshan Sansthan. Our mission is to provide quality education to every child in our community. We believe that education is the foundation of a better future, and we are committed to nurturing young minds with values, knowledge, and skills. Together, let us shape the future of our village and nation.',
+  message: 'Welcome to Swami Vivekanand Shikshan Sansthan. Our mission is to provide quality education to every child in our community. We believe that education is the foundation of a better future, and we are committed to nurturing young minds with values, knowledge, and skills. Together, let us shape the future of our village and nation.',
   messageHi: 'स्वामी विवेकानंद शिक्षण संस्थान में आपका स्वागत है। हमारा उद्देश्य हमारे समुदाय के हर बच्चे को गुणवत्तापूर्ण शिक्षा प्रदान करना है। हम मानते हैं कि शिक्षा बेहतर भविष्य की नींव है, और हम मूल्यों, ज्ञान और कौशल के साथ युवा मस्तिष्कों को पोषित करने के लिए प्रतिबद्ध हैं। आइए, मिलकर अपने गांव और राष्ट्र का भविष्य संवारें।',
 };
 

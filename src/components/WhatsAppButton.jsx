@@ -2,7 +2,7 @@ import './WhatsAppButton.css';
 
 export default function WhatsAppButton() {
   const phone = '919838226955';
-  const message = encodeURIComponent('Hello! I want to know about Swami Vivekanad Sikshan Sansthan.');
+  const message = encodeURIComponent('Hello! I want to know about Swami Vivekanand Shikshan Sansthan.');
 
   return (
     <a

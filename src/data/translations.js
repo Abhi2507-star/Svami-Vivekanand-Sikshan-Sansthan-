@@ -1,7 +1,7 @@
 const translations = {
   en: {
     // Navbar
-    schoolName: 'Swami Vivekanad Sikshan Sansthan',
+    schoolName: 'Swami Vivekanand Shikshan Sansthan',
     home: 'Home',
     gallery: 'Gallery',
     announcements: 'Announcements',
@@ -54,7 +54,7 @@ const translations = {
     phone: 'Phone',
     email: 'Email',
     address: 'Address',
-    addressText: 'Swami Vivekanad Sikshan Sansthan, Haripur, kadipur Sultanpur, Uttar Pradesh 228161',
+    addressText: 'Swami Vivekanand Shikshan Sansthan, Haripur, Karaudi Kalan, Kadipur Sultanpur, Uttar Pradesh 228161',
     phoneText: '+91 98382 26955',
     emailText: 'info@ptlaltaprasadschool.edu.in',
 
@@ -62,7 +62,7 @@ const translations = {
 
     quickLinks: 'Quick Links',
     contactInfo: 'Contact Info',
-    copyright: '© 2026 Swami Vivekanad Sikshan Sansthan. All rights reserved.',
+    copyright: '© 2026 Swami Vivekanand Shikshan Sansthan. All rights reserved.',
     madeWith: 'Made with ❤️ for our community',
 
     // Location
@@ -155,7 +155,7 @@ const translations = {
     phone: 'फ़ोन',
     email: 'ईमेल',
     address: 'पता',
-    addressText: 'स्वामी विवेकानंद शिक्षण संस्थान, हरिपुर, कादीपुर सुल्तानपुर, उत्तर प्रदेश 228161',
+    addressText: 'स्वामी विवेकानंद शिक्षण संस्थान, हरिपुर, करौंदी कलां, कादीपुर सुल्तानपुर, उत्तर प्रदेश 228161',
     phoneText: '+91 98382 26955',
     emailText: 'info@ptlaltaprasadschool.edu.in',
 

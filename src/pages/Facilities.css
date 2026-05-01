@@ -1,0 +1,28 @@
+.facilities-subtitle {
+  text-align: center;
+  color: var(--text-secondary);
+  margin-bottom: var(--space-8);
+  font-size: var(--font-size-base);
+}
+.facility-detail-card {
+  text-align: center;
+  transition: transform var(--transition-fast);
+}
+.facility-detail-card:hover {
+  transform: translateY(-4px);
+}
+.facility-detail-icon {
+  font-size: 3rem;
+  display: block;
+  margin-bottom: var(--space-4);
+}
+.facility-detail-card h3 {
+  color: var(--saffron-dark);
+  margin-bottom: var(--space-2);
+  font-size: var(--font-size-lg);
+}
+.facility-detail-card p {
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary);
+  line-height: 1.7;
+}

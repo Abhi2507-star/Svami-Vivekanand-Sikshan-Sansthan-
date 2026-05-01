@@ -33,6 +33,7 @@
   font-size: var(--font-size-base);
   color: var(--text-primary);
   font-weight: 500;
+  word-break: break-word;
 }
 .contact-info-item a:hover { color: var(--saffron); }
 .contact-map { margin-top: var(--space-4); border-radius: var(--radius-md); overflow: hidden; }

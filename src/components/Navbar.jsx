@@ -24,7 +24,7 @@ export default function Navbar() {
         <Link to="/" className="navbar-brand" onClick={() => setMenuOpen(false)}>
           <img src="/images/logo.png" alt="Logo" className="navbar-logo-img" />
           <div className="navbar-brand-text">
-            <span className="navbar-title">{t('schoolName')}</span>
+            <span className="navbar-title" title={t('schoolName')}>{t('schoolName')}</span>
           </div>
         </Link>
 

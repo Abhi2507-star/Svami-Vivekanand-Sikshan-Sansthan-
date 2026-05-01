@@ -3,7 +3,7 @@ import { useLang } from '../context/LangContext';
 import AdminDashboard from './AdminDashboard';
 import './AdminLogin.css';
 
-const ADMIN_PASSWORD = 'admin123';
+const ADMIN_PASSWORD = 'admin123@plps';
 
 export default function AdminLogin() {
   const { t } = useLang();

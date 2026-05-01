@@ -54,7 +54,7 @@ const translations = {
     phone: 'Phone',
     email: 'Email',
     address: 'Address',
-    addressText: 'Swami Vivekanand Shikshan Sansthan, Haripur, Karaudi Kalan, Kadipur Sultanpur, Uttar Pradesh 228161',
+    addressText: 'Swami Vivekanand Shikshan Sansthan, Haripur, Karaudi Kalan, Kadipur, Sultanpur, Uttar Pradesh 228161',
     phoneText: '+91 98382 26955',
     emailText: 'info@ptlaltaprasadschool.edu.in',
 
@@ -155,7 +155,7 @@ const translations = {
     phone: 'फ़ोन',
     email: 'ईमेल',
     address: 'पता',
-    addressText: 'स्वामी विवेकानंद शिक्षण संस्थान, हरिपुर, करौंदी कलां, कादीपुर सुल्तानपुर, उत्तर प्रदेश 228161',
+    addressText: 'स्वामी विवेकानंद शिक्षण संस्थान, हरिपुर, करौंदी कलां, कादीपुर, सुल्तानपुर, उत्तर प्रदेश 228161',
     phoneText: '+91 98382 26955',
     emailText: 'info@ptlaltaprasadschool.edu.in',
 

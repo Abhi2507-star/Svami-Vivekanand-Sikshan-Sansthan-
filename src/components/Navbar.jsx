@@ -22,7 +22,7 @@ export default function Navbar() {
     <nav className="navbar" id="main-nav">
       <div className="navbar-inner container">
         <Link to="/" className="navbar-brand" onClick={() => setMenuOpen(false)}>
-          <span className="navbar-logo">🏫</span>
+          <img src="/images/logo.png" alt="Logo" className="navbar-logo-img" />
           <div className="navbar-brand-text">
             <span className="navbar-title">{t('schoolName')}</span>
           </div>

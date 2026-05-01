@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="footer-grid">
           <div className="footer-section">
             <div className="footer-brand">
-              <span className="footer-logo">🏫</span>
+              <img src="/images/logo.png" alt="Logo" className="footer-logo-img" />
               <h3>{t('schoolName')}</h3>
             </div>
 

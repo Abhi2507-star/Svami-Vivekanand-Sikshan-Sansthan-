@@ -49,7 +49,7 @@ export default function Footer() {
 
         <div className="footer-bottom">
           <p>{t('copyright')}</p>
-          <p className="footer-love">{t('madeWith')}</p>
+
         </div>
       </div>
     </footer>

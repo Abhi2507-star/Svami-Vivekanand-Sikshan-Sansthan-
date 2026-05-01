@@ -63,7 +63,7 @@ const translations = {
     quickLinks: 'Quick Links',
     contactInfo: 'Contact Info',
     copyright: '© 2026 Swami Vivekanand Shikshan Sansthan. All rights reserved.',
-    madeWith: 'Made with ❤️ for our community',
+
 
     // Location
     ourLocation: 'Our Location',
@@ -163,7 +163,7 @@ const translations = {
     quickLinks: 'त्वरित लिंक',
     contactInfo: 'संपर्क जानकारी',
     copyright: '© 2026 स्वामी विवेकानंद शिक्षण संस्थान। सर्वाधिकार सुरक्षित।',
-    madeWith: 'हमारे समुदाय के लिए ❤️ से बनाया गया',
+
 
     ourLocation: 'हमारा स्थान',
 
